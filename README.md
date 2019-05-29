@@ -1,12 +1,16 @@
 # music
 
-> A Vue.js project
+> 一个模仿qq音乐播放器的vue项目
+>[在线预览](http://test.noods.cn) 
 
 ## Build Setup
 
 ``` bash
 # install dependencies
 npm install
+
+# serve with nodejs at localhot:9000
+node prod.server.js
 
 # serve with hot reload at localhost:8080
 npm run dev
