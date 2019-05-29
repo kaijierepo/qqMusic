@@ -1,6 +1,6 @@
 # music
 
-> 一个模仿qq音乐播放器的vue项目
+> 一个模仿qq音乐播放器的vue项目 ＜/br＞
 > [在线预览](http://test.noods.cn) 
 
 ## Build Setup
