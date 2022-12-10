@@ -15,7 +15,7 @@
     "babel-runtime": "^6.26.0",
     "better-scroll": "^1.15.2",
     "css-loader": "^0.28.11",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "fastclick": "^1.0.6",
     "good-storage": "^1.1.0",
     "jsonp": "^0.2.1",
